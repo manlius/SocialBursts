@@ -30,9 +30,13 @@ The data is in extended edgelist format:
 
 FOr each event, we provide a separate file for the temporal activity in the following format:
 
-    nodeFrom nodeTo action timestamp
+    nodeFrom nodeTo timestamp interaction
 
-For further details about the calculation of weights, we refer to the aforementioned paper.
+Interaction can be **RT** (retweet), **MT** (mention) or **RE** (reply). Each link is directed. The user IDs in the above datasets are anonymized.
+
+Note 1: the direction of links depends on the application, in general. For instance, if one is interested in building a network of how information flows, then the direction of RT should be reversed when used in the analysis. Nevertheless, the choice is left to the researcher and his/her own interpretation of the data, whereas we just provide the observed actions, i.e., who retweets/mentions/replies/follows whom.
+
+Note 2: users mentioned in retweeted tweets are considered as mentions. For instance, if @A retweets the tweet “hello @C @D" sent by @B, then the following links are created: @A @B timeX RT, @A @C timeX MT, @A @D timeX MT, because @C and @D can be notified that they have been mentioned in a retweet. Similarly in the case of a reply. If for some reason the researcher does not agree with this choice, he/she can easily identify this type of links and remove the mentions, for instance.
 
 # Acknowledgments
 
