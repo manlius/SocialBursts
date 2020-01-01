@@ -60,6 +60,11 @@ The authors acknowledge the Max Planck Institute for the Physics of Complex Syst
 
 Please cite the accompanying paper, if you use one or more of data sets above in your study.
 
-Note that the correct reference for the Cannes Film Festival data is:
+Note that the correct reference for the 
+
+* Cannes Film Festival 
+* 50th Anniv. of M.L. King's 'I have a dream'
+
+data is:
 
 E. Omodei, M. De Domenico, A. Arenas. - Characterizing interactions in online social networks during exceptional events. [Front. Phys. 3, 59 (2015)](https://www.frontiersin.org/articles/10.3389/fphy.2015.00059/full)
