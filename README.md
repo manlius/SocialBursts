@@ -52,6 +52,14 @@ Note 2: users mentioned in retweeted tweets are considered as mentions. For inst
 |----|----|
 |![Image of Cannes_Festival_(P1)_net](images/Cannes_Festival_(P1)_net.png)|![Image of Cannes_Festival_(P1)_net](images/Cannes_Festival_(P1)_net.png)|
 
+|||
+|----|----|
+|![Image of Boston_bombing_(P2)](images/Boston_bombing_(P2).png)|![Image of Gravitational_Waves](images/Gravitational_Waves.png)|
+|![Image of ML_King_(largest_peak).png](images/ML_King_(largest_peak).png)|![Image of NBA_Finals_(P3)](images/NBA_Finals_(P3).png)|
+|![Image of Paris_attacks_(last_peak)](images/Paris_attacks_(last_peak).png)|![Image of Pope_(P3)](images/Pope_(P3).png)|
+|![Image of Sanremo_(P3).png](images/Sanremo_(P3).png)|![Image of UCL_Final_2016.png](images/UCL_Final_2016.png)|
+
+
 # Acknowledgments
 
 The authors acknowledge the Max Planck Institute for the Physics of Complex Systems (Visitors program 2016).
