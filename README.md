@@ -36,7 +36,7 @@ For more information abou the data collection, we refer to Tab. 1 and Methods of
 
 The data is in extended edgelist format:
 
-    nodeFrom layerFrom nodeTo layerTo weight
+    layer nodeFrom nodeTo weight
 
 For each event, we provide a separate file for the temporal activity in the following format:
 
