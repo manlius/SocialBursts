@@ -17,18 +17,26 @@ In the aforementioned paper, we tackle this challenge by analyzing the online ac
 
 Four files are provided. Each file contains one network, corresponding to the exceptional events dataset analyzed in this paper, namely
 
-* [Religion] Pope Francis election (3 layers, X nodes)
-* [Sport] NBA finals (3 layers, X nodes)
-* [Science] gravitational waves discovery (3 layers, X nodes)
-* [Culture] Cannes Film Festival (3 layers, X nodes)
+|Type|Name|Event|Layers|Users|Interactions|
+|----|----|-----------|------|-----|------------|
+|Religion|`PopeElection2013`|Pope Francis election in 2013|3|2,064,866|5,969,189|
+|Sport|`NBAFINALS2015`|NBA finals in 2015|3|747,937|2,150,187|
+|Sport|`UCLFinal2016`|UEFA Champions League Final in 2016|3|677,145|1,673,492|
+|Science|`GRAVITATIONAL_WAVES_2016`|Gravitational waves discovery in 2016|3|362,086|721,590|
+|Culture|`Cannes2013`|Cannes Film Festival in 2013|3|438,537|1,180,173|
+|Culture|`Sanremo2016_final`|Sanremo Italian Music Festival in 2016|3|56,562|461,838|
+|Society|`BostonBomb2013`|Boston Attack in 2013|3|4,377,184|9,480,331|
+|Society|`ParisAttack2015`|Paris Attacks in 2015|3|1,896,221|4,163,947|
+|Society|`MLKing2013`|50th Anniv. of M.L. King's 'I have a dream'|3|327,707|398,230|
 
-and consists of 3 layers, corresponding to retweet, mentions and replies aggregated over time and observed between users.
+Layers correspond to retweet, mentions and replies aggregated over time and observed between users.
+For more information abou the data collection, we refer to Tab. 1 and Methods of the paper.
 
 The data is in extended edgelist format:
 
     nodeFrom layerFrom nodeTo layerTo weight
 
-FOr each event, we provide a separate file for the temporal activity in the following format:
+For each event, we provide a separate file for the temporal activity in the following format:
 
     nodeFrom nodeTo timestamp interaction
 
