@@ -4,6 +4,14 @@
 
 ###### Last update: 13 Mar 2020
  
+### Note
+
+Due to Github file size limitations, 3 datasets could not be uploaded here. You can find them at the following links:
+
+* <https://comunelab.fbk.eu/data/BostonBomb2013_Multiplex_Social.zip>
+* <https://comunelab.fbk.eu/data/PopeElection2013_Multiplex_Social.zip>
+* <https://comunelab.fbk.eu/data/ParisAttack2015_Multiplex_Social.zip>
+
 ### Reference and Acknowledgments
 
 This README file accompanies the datasets representing the multiplex social network of users in Twitter.
@@ -23,7 +31,6 @@ This work has been partially supported by Max Planck Institute for the Physics o
 
 Each dataset is accompanied by a License.
 
-======================================================
 
 
 ### Contacts
