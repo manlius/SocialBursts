@@ -6,7 +6,7 @@ This repository provides free access (under the GNU GPL v3) to the multiplex net
 
 M. De Domenico and E.G. Altmann
 
-Scientific Reports X, Y-Z (2020)
+Scientific Reports 10, 4629 (2020)
 
 # Introduction
 
