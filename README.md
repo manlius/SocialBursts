@@ -60,6 +60,10 @@ Note 2: users mentioned in retweeted tweets are considered as mentions. For inst
 |![Image of Sanremo_(P3).png](images/Sanremo_(P3).png)|![Image of UCL_Final_2016.png](images/UCL_Final_2016.png)|
 
 
+# WARNING
+
+Some data sets might not be available in this repository because they are too big. If you don't find the data set you are looking for, verify if it is available in [my website](https://manliodedomenico.com/data.php).
+
 # Acknowledgments
 
 The authors acknowledge the Max Planck Institute for the Physics of Complex Systems (Visitors program 2016).
